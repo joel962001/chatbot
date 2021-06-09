@@ -25,7 +25,7 @@
 
 ![em](https://user-images.githubusercontent.com/69598463/121341655-7ef3e300-c93e-11eb-89e4-251009289458.PNG)
 
-<p align="center">Contact Us</p>
+<p align="center"<strong>>Contact Us</strong></p>
 
 ![WhatsApp Image 2021-06-08 at 5 18 56 PM](https://user-images.githubusercontent.com/69598463/121341806-a6e34680-c93e-11eb-9621-96fc65006cf2.jpeg)
 
