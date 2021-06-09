@@ -1,7 +1,7 @@
 # chatbot
 <strong>Website glimpse</strong> 
 <br>
-<p align="center"><<strong>HomePage</strong></p>
+<p align="center"><strong>HomePage</strong></p>
 
 ![WhatsApp Image 2021-06-08 at 5 18 47 PM](https://user-images.githubusercontent.com/69598463/121340660-79e26400-c93d-11eb-92a5-0270cb9e71f2.jpeg)
 
@@ -15,13 +15,13 @@
 
 ![WhatsApp Image 2021-06-08 at 5 18 49 PM](https://user-images.githubusercontent.com/69598463/121340755-92eb1500-c93d-11eb-8028-57db21751353.jpeg)
 
-<p align="center">Service</p>
+<p align="center"><strong>Service<\strong></p>
 
 ![serve1](https://user-images.githubusercontent.com/69598463/121340999-dba2ce00-c93d-11eb-86f8-0971cee302b2.PNG)
 
 ![serve2](https://user-images.githubusercontent.com/69598463/121341019-e2c9dc00-c93d-11eb-9e92-ea9ea7f3ca06.PNG)
 
-<p align="center">Emergency</p>
+<p align="center"><strong>Emergency<\strong></p>
 
 ![em](https://user-images.githubusercontent.com/69598463/121341655-7ef3e300-c93e-11eb-89e4-251009289458.PNG)
 
