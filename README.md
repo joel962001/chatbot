@@ -1,7 +1,7 @@
 # chatbot
 <strong>Website glimpse</strong> 
 <br>
-<p align="center">HomePage</p>
+<p align="center"><<strong>HomePage</strong></p>
 
 ![WhatsApp Image 2021-06-08 at 5 18 47 PM](https://user-images.githubusercontent.com/69598463/121340660-79e26400-c93d-11eb-92a5-0270cb9e71f2.jpeg)
 
